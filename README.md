@@ -1,5 +1,5 @@
 # git-dio
-desafio github dio
+Repositorio para desafio github dio
 
 ## Links
 
